@@ -11,6 +11,7 @@ The dashboard provides interactive visualizations using Donut Chart, Pie chart, 
 Insights
 
 :earth_asia: Regional Performance
+
 The United States ranks first in terms of the highest total sales, indicating its strong market presence.
 
 
