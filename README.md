@@ -1,6 +1,8 @@
 # Superstore-sales-analysis-PowerBI
-
-
+It consists of three datasets:
+1)Orders 
+2)Returns
+3)People
 
 
 
