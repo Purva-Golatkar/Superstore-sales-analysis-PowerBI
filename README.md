@@ -1,8 +1,16 @@
 # Superstore-sales-analysis-PowerBI
+
+#Overview
 It consists of three datasets:
 1)Orders 
 2)Returns
 3)People
+As a business manager, try to find out the weak areas where you can work to make more profit.
+The dashboard provides interactive visualizations using Donut Chart, Pie chart, Map, Stacked bar,slicers for data filtering.
+
+#Insights
+
+
 
 
 
