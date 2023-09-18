@@ -14,7 +14,9 @@ Insights
 
 The United States ranks first in terms of the highest total sales, indicating its strong market presence.
 
+:money_with_wings: Profit Analysis
 
+The customer Tamara Chand has generated the highest profit, making them a valuable customer for the superstore.
 
 
 
