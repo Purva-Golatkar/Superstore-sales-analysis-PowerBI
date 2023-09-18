@@ -9,7 +9,8 @@ As a business manager, try to find out the weak areas where you can work to make
 The dashboard provides interactive visualizations using Donut Chart, Pie chart, Map, Stacked bar,slicers for data filtering.
 
 Insights
- :earth_asia: Regional Performance
+
+:earth_asia: Regional Performance
 The United States ranks first in terms of the highest total sales, indicating its strong market presence.
 
 
