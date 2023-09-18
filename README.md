@@ -1,6 +1,6 @@
-# Superstore-sales-analysis-PowerBI
+Superstore-sales-analysis-PowerBI
 
-#Overview
+Overview
 It consists of three datasets:
 1)Orders 
 2)Returns
@@ -8,9 +8,9 @@ It consists of three datasets:
 As a business manager, try to find out the weak areas where you can work to make more profit.
 The dashboard provides interactive visualizations using Donut Chart, Pie chart, Map, Stacked bar,slicers for data filtering.
 
-#Insights
-
-
+Insights
+ :earth_asia: Regional Performance
+The United States ranks first in terms of the highest total sales, indicating its strong market presence.
 
 
 
